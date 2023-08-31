@@ -16,7 +16,7 @@ spring:
     compatibility-verifier:
       enabled: false
   application:
-    name: @name@
+    name: '@name@'
 
 management:
   endpoints:
